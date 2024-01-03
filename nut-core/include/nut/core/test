@@ -1,0 +1,7 @@
+namespace nut {
+  namespace core {
+    namespace test {
+      void hello_world();
+    }
+  }
+}
